@@ -22,5 +22,4 @@
 <p>php artisan migrate</p>
 <p>php artisan schedule:work or * * * * * cd /path-to-your-project && php artisan schedule:run >> /dev/null 2>&1</p>
 <h4>OBS: Não consegui terminar a parte do cron, consegui pegar os arquivos mas na hora de mandar para o banco de dados estava tendo problema, até por isso fiz mais um endpoint para salvar os produtos, para conseguir testar as APIS</h4>
-<h4>A documentação da API você encontra no projeto</h4>
 
